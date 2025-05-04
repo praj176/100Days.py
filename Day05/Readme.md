@@ -24,7 +24,3 @@ This project is a Python-based **Password Generator** that lets users generate s
 3. It then shuffles the list of characters (in hard mode) to prevent predictable sequences.
 4. Finally, it joins them into a secure password and prints it.
 
----
-
-## 📦 Example
-
